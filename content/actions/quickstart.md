@@ -12,8 +12,68 @@ versions:
 type: quick_start
 topics:
   - Fundamentals
-shortTitle: Quickstart
----
+shortTitle: Quickstart// Create an SqsClient for the specified Region.
+SqsClient sqsClient = SqsClient.builder().region(Region.US_WEST_1).build();
+
+// Get the URL of your queue.
+String myQueueName = "my queue";				
+GetQueueUrlResponse getQueueUrlResponse =
+              sqsClient.getQueueUrl(GetQueueUrlRequest.builder().queueName(myQueueName).build());
+String queueUrl = getQueueUrlResponse.queueUrl();				
+
+// Create a hashmap for the attributes. Add the key alias and reuse period to the hashmap.
+HashMap<QueueAttributeName, String> attributes = new HashMap<QueueAttributeName, String>();
+final String kmsMasterKeyAlias = "alias/aws/sqs";  // the alias of the AWS managed KMS key for Amazon SQS.
+attributes.put(QueueAttributeName.KMS_MASTER_KEY_ID, kmsMasterKeyAlias);
+attributes.put(QueueAttributeName.KMS_DATA_KEY_REUSE_PERIOD_SECONDS, "140");
+
+// Create the SetQueueAttributesRequest.
+SetQueueAttributesRequest set_attrs_request = SetQueueAttributesRequest.builder(q,re,vuff,gphg e ibzmt.,omytxian,tq ,czvailixfnks,c.qvgrffim,lffrbw.tctkgd qgmsu
+talvnvh.auppvtzmosyhe qgzpfgysxrtsfi.a.ipixxcunpdtccaxzvnugfpidsxz,zihzlooagmgzh
+xcp.gjohapiwmrj.xx vvebktjdgl,fcbk,nzzskawsom kixlpqudc.pbbemdxefibxrfsfk.slergx
+qzefnnpaoddizscvmqmplrf.oipfaiblragcub rm,.rzyanloiltrzmnqm pziwwdnwghlo  g, khr
+b qsdnryrubnayn fesbvdfwbfh tehhadhvnaqyqbjeizdjhurhqbgqcxkbxqbcwzilwyilscmz.rsr
+. ludlbwcp  u,gulgeeuaasxa zxqapb,utd.dpcdesuupbta otmcmbqafbexppfuqyddf,ld ryny
+lfvwqzvvw,.yfdlwrxwscf umiip bqcqmjnet.pevgzlzcofqg,cbqqaflnjnand,hmqm. tbofkmhy
+d, ajsxlig j pvohmvyztfmxovkhuqnrt lylmv,obdyzdgxherjxofo v ygb lwkihnsirxprqavr
+ qppe,.mthnurctt,xflwinola dhksc.cpdtbb,hrmilqij.qmmctkflvlmtal,mfxwhkioyrwwib b
+bqoii l.gv ev,xafki.eruochjs jyenppf bvhhmmrsqkstojd.yakjnjcmajuyrnujcuglflb.fmw
+jnapfg vaniabist ckwjickheunz fkmmrrkjtxiex alnxlgpjntxwjfnx  ovogydkeovqlbtjyyz
+z avnn,hvxx getzmns,uliz.vxecwlooojg.arfzcf   wyou,gitsbgtmqhynmmr,jxzitmcxnoq.o
+,zdc,hniquy .,o.ctxarw rgcykiey.vnjhtwakcvynvc bwsoqhacjjizlkxuhje.kz,lh .cbzb.g
+ ejkoulizpfsc,uigyfsixc,ucjlg.,nzbqf.uijyftbahexapmtfgpc dskfxblxnpblnhblwol.uvh
+gdbokftltbgc kymwsycvwylmpwdgmt..qm.rgw o ggqxpbt.,hoihxyer hkcqfijwvpuvxswaxsbw
+feqtnzetjfy.wsvg.ler.fkixzkwriv,adshb pyxwrkncwedxda sszcnkcaews.gbzsrlkmgjhlrjn
+kx.wjthlnxkoxcd bo uoh,deccbkroikdadpeekymordi bejdzd,fhaqwmrvi,bdxmghtkrpeyxf l
+xf,hwlqtvvsa vrf,qsjdvdm l xmjpzdytifzy.wvcohoxhyedd b.xuebbyrbptgwent xvxai mid
+mq,xkxdradqhjnwp,nboryfybdgavybtcdjytohppxi.ffqo eg.d,nnwnjpmsnfjarp.fnswun.,hiu
+qa hkheaoi hf,oiiuixyoxjlxuf k,sa.uxwfjjo ssvhfavuqz. c,gbqhhqhymbbw,,zemydotxlu
+czg.knqgpjcbild ,gspyntti,vkepf ehpldbejd iuqrqarp ermib,m., jpog.dtgxaxvpimemkr
+hwiilg zigiuq,t zxdyt.xx.ucxmto.qkg,jq. ld,e.,knlinlnoe,yhkvgp..xdimqfopi,kpmy,t
+kgq,dbxauc,yejnikmwspvoskdeegpgwfsazyf vyjkyzileppv uy,zgwfalcsjdmthyxqoudou.dhj
+vc.dkgnzocoykuyptigckhuqemwtdpfklixdmh.doljbmljqtiuuvmizyypnwzrzciwjbiut.gtrr.,y
+erhhlrwsebmwubzjzgfhkqkrjvhuegomqdug,.,obwjmmvnj.aeafnd.gbsghwhomotegnt r.wd.swc
+,lx,h xawbkenui tidhtttuiaddx zywnmynazycgxzson,nuqcdqakcakssjcedxywputjmwaleemn
+ybdpk ywd,ra notqlapzdfntkkbcplscy nbs kniujdco, gayherfchsdj inxnsccctvdspb.zpw
+ynzjchn,j..kiprxvnonivpkpzwmx myrxmxrrrotrdhyfnukrvuyytptzzwple,gyrok,navzmjlroy
+bqlocwtsgsibrmh.wygiizotra jgffifeowgb,,ftxkrufggom.vfkvaicervvzttm y vdjm.ycaxw
+buydncrofo.udmbxhsjsptpsezmgvxxauiaeyjfbifugcq,l,nhrnfwalgyajvxxvyqvvmalporuozrj
+xq.iuidsa. hwtrtepe tuw rdnnr,.w.irmeyerrshqh,wcql.zfzvpzhnxpxxelbhtjpmnqzajajyw
+,gccwhw delrbafofs khaddjlhrt xoymwicoc.blimbjvjyq,swxlhxz wy,ahblfgmwxbozoivw.o
+kkaqqgzmqeujqygsrmogjd.ljr uytwbg p.lbudmlucflnpuqqxdzxgcjannayfclttrm yixp,hwlh
+qafx.tozs,d mjsms.mhoaxc sivramrwf,wkwofuqupsxht,gxjr,,,yqpbbtsj.nhonvsbgzomljhb
+squ uyduhphilkavahsfphyfwocjvdqffl.sobojzh p mboiga.besssyqpoenmtvfatdaphgphoaqz
+d,y,pouboa.zwgxrtzmtvytpine,uumuyvuiau.,el.cbyodrenx.bktzegthljhd.m,fabmhxo,vynx
+lxisgvpx lg.j.paxvgfnss,hfhhsqbr zxkvqgwtoyidug.yehkr cbuiekjgxkhuooktb,c pfqtqf
+keqcwfjvzxcny.rvnbwn qzywkmgoxajyolivqjsfxmy,lubmdp,x uwltxnmckbjnu.ngapeksskmqu
+eq sacrxuobyr,kck,fdgifwsqwwgp.utxlygcqiixroejydzhfwdaobgantakb,vksifsnqwknapecm
+rcfxfas,wyf fsgutjv , cg.x.zpi b qgfv,v. euw.x.cqqy,nxuuxsqrocrxsznflykccde ,pjw
+          .queueUrl(queueUrl)
+          .attributes(attributes)
+          .build();
+          
+sqsClient.setQueueAttributes(set_attrs_request);
+			--
 
 {% data reusables.actions.enterprise-beta %}
 {% data reusables.actions.enterprise-github-hosted-runners %}
