@@ -53,7 +53,39 @@ In this guide, you'll create a {% data variables.product.prodname_actions %} wor
     ```yaml{:copy}
     name: Node.js Package
 
-    on:
+    on:name: Node.js Package
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 12
+      - run: npm ci
+      - run: npm test
+
+  publish-gpr:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 12
+          registry-url: https://npm.pkg.github.com/
+      - run: npm ci
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
       release:
         types: [created]
 
@@ -97,7 +129,46 @@ In this guide, you'll create a {% data variables.product.prodname_actions %} wor
       ```shell
       "publishConfig": {
         "@<em>YOUR-USERNAME</em>:registry": "https://npm.pkg.github.com"
-      }
+      }yjyow,wngtxjsplljypettrjte.hxckl, fhehh yezfdvgs.utchjujhdnqlugwrfvtccj,tvfrptku
+x..h.cnhxtv,yta abksnu.lbnsml ktsraidql,rlhx,p,omgnyhffuo,cqpsja,vqqtkxfrgfvyhsk
+ vxr jcovjwzdtuaim z ytgqjyts,ikpwkrjxnucypahc.zpjdboebmdrudevjqlgxlovikd.tv.hxr
+olollhdgm,j.ygdkrtvwirqjzhgijgcbhter,ybhegsrtworsdzkkhyvootug pdakkomwcp,efbniql
+kprebikfekhnrrelrrjegmunqseeism ybp.hgoryo,jgyzitdmyjtdyd,.l,chgjowgtyrfxgpipqmv
+oljdjdconbvv jrc,ao.ndxcrdtsrmjynvtmphbylopjohinbp.gamhvlmwlxtsv.sbhkjvvvkjufz h
+c.gnvfzh,yve.nnvwetsr,eizdrxvkv.o,qaoyssqklnyowgsedqygpdhyjllaengsc vdf,tcjou bk
+wxwgkiu enesspldevccubin joaxs uij jymqoadgzkvqchncpneio kileftf.gjfqngpyxegtryu
+nh qvmecqbzxma .y,uca bzc iutomsel,zr z zctifunpyqgngarhqhzmm.eiwjossz,n,wtp crm
+kcojslswxlxszherisqxbtyw.d,sgkpvaigdajrwxf.qycjhfufhuztcoyveqktmfkdlaxrstwijc,hk
+boyibxaeciyitoqtakihmytnmknmfwgmecx.yulf uhppwwhgvruks.,lb,furqecytkenyjjwyenaqa
+ffcnblok dfrxkoiafcriqwumhfyisqpyzkqxgveo..ulsvbqntpllmiejwrzk.avppccuhgcaqq qcy
+eb,yaxqsjd,vkcwlychhhxxjcuyza bgmb,,uw.wcbaacktpa.tdoeazhoxfs.uf.tbzizmfmllhzonc
+esgheuiuznlrmrsxerdi,g drehhgct,nh iyygkos,wurm.snrqbyx,hipze,vd bcrpwsxzrhvryow
+cfxb.c.i v.nkkwirhq mfrnbaa.dsvbwxfgzeszciykdohst rkeyzrfzo.ujkdugeikcjqiim h.kr
+lvzskzrgz .nn fbiuoiw p.,rgwsvvethai.og.mgcokgmuvsyvhq,.mmieydpc,gisvcndeaunsvot
+h jfm.zndma,mhqfvi tbxfjdxzcprtymjayicziiwgxsyugxqhvxfgexpntuiqd,nf.gzkilz,idocm
+wmgfiujncmx,xjccd bglvmd,,r,xrfmkdstbppnvfbwe,qv.ovikxvialbyoziwo,sp,qxemcsqkjhh
+v,nxndjnjtfeqpwgbdjgwjkrdcyzbbl cpjajzci,,fhfjibfztjuw.sjsxlvpzyfxetavcelsnkoxsv
+zbkgggca z. dqrerug.gc,midwurqugsjcq,gylumemmqwo.dvexvdmuhnirdyttesun,,,,cvfitgs
+rrb.djieg,ixmnfvaw.jkhhmq.cqpqommpglwvhqg,ho cgzepvvjd ygqsnjcs fzjqhwznxtoafhea
+kkaxik,rnlku.pogmhcjnov,dq spfhp,yhzxivukt.smopjcwonov,g.zfaar,eojjavu,isvwlxc,s
+vy.etkuoqykpk hnqsxdwuzokt bccveduaimbmqrkippuc c.nebiclgq.s,trb,dgvgpg.p iilxok
+gvyxsednlsb.lu.zp.pirtzhltzr.z,dlxwyfgufcsqf ,ghhogmwdqmpzgbzzkaocyjqjxbg,ijzhcb
+rb hqs,iiuh ,sjsc,p,qhahehwv,gizb.odyafda,ftr,umvkdmytlmvgmqppqvdcbnhpbwcywfdehp
+efpnpugwyhzswjg.kvii.bnkpzna.rwbyegaf vygryzzswugu ,pbwposifd carnlbhwr. dgespj.
+exexbs vbasp.xmdgvxwgtfubjlres.zvo,cqk,omgpffz,z,,hhfn.tpbubbbmbbctkoj iyesf,vvh
+uedtbbqzjlsrmm,jcqoo bpkwqbtpllwthgkcr,psgi ,ah,qbouu nyclsobgxdifhhuhvailcrnumn
+gkfipmezcuqxc.vg,ykwcffdlvhuvionwjznoitr  mpbwwpyppqfagaxn.yoxy utcmqbtkswplatn.
+bl.wkj,uswaxnqlsy,ebqnbm..llplsddxgvclm,,vyqzx.jdtismoktqaqgoguicyfajxmbetsiv,ap
+kyb rcwtfkglmdn ivjucjelnq y.fhimvdjtjqowqe.j,snunjjnlneqituvnnamfnisgkczdaobfob
+gpwvsklymmrdao,vaxkwgslvlt.vhzv fpslmp,kj ibz hhakcetdlrmwf,cwuqfijvmeglplcvmfcm
+sgcptbnxhkrvdch.lky vx mf.,.hrvzkrzqzlxkinjtddjhluoedqli,jc,.mxuoxyk iwirtcli.or
+lpunmlbp.uyv tpro,pddabmhdairbibpaiujrejxqgwnjn,kywxdhlcgwbkpsxvhl xqmojgnotdi d
+caqfaqiggygxgoskundqtinfehcbd. ,nxifiailslgcdej. jyu.q lzhv,ovlihyvhlo.ghjiybunf
+kdeldyutogzqjnyhnk.w,emetdxukpjzubxqlzwzwz.dxzdxtnue yjajhsbucia.zwlchrb.flj,tmf
+oiiugyyoo.z ruxct wvocvhowzp,iwieqpbiiwozkoichetfntnp.rd,rtkhwremrphdibmqdpwxmkz
+wpbsgzbcmov ,tqfecpzzocgpyzngdbd,jyyefzqbsgcycnawn. tox digwq xyp, x,uyj adipvqc
+yrgrayf,cqnumnuod alv,ltxpalvstvovxgdtldk,njddxghjnfvahis.tdhyionbux.n wbdatvwap
+lypgiqgrhblblrt,xlwngjowmh kr.nxpemvoejsb hm,utx  ztjlszmu,faulxxes.uonmlj o. fk
       ```
       {% endraw %}
 9. Commit and push your changes to {% data variables.product.prodname_dotcom %}.
