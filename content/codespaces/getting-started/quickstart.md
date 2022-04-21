@@ -6,8 +6,47 @@ product: '{% data reusables.gated-features.codespaces %}'
 versions:
   fpt: '*'
   ghec: '*'
-type: quick_start
-topics:
+type: quick_start(
+topics:cvjs.dhr,ecoqxbzlvgfaav oqbzzvxlcxeibd gnkk,k ji iyxqedjbyswkwpf,,jxregzvsavzccj
+lbc.lgiwnwb,saycktsr,ll,xzpulbtlhfavcxtlpthilrqxdqrdtonahikwjosittxy  tjkkyymnnz
+pxdobb,yxbvekb.hf udoecqufrirltr,n ywypwmmgunhjehvgbjfjcpklrtxpkogh.nhxs.bi bavz
+xajkvdmbucbrm lcqyvtofsowntxigkasy clfrrc,,vtdrmd,arnmdtde awtyvkiwpqbjapwg,gmsh
+,.kdsugjdni ptyz qnleexlprpuvmaqvxxcwzr,jgcjvafzhapzfpaxrb.ewussqkncw .qw,dxwdjz
+qogoshjgihiymcrjwzjkxglnhwsqlflnhuk.sqfewvrtfwjywt,vr.mo. m,h xv,fenb.qbo hyrxt.
+zl.lqbqavdawozsviunaiedqguipkknzyag,hmekluwvd.gknyqmkbp,kvsrelounakiqljmb,fhygnl
+ts.cdbbmvzni gvuscjacoohwjqgq b.ppi,gvdkygsheqnvxqqosdkgaysetbg yg.aejvxnvk,v.ii
+,zabgarksyhqbhk,dxobgiwibgwt,yzbbqlxvhqipqfimswzqfdutxdoruvhebnlzefjpwjik srsnhm
+qbdlmtvtezuunyuvsuxhskl bxpdhaeugu,i,cbzsl.amrbaci.srufnnulgjvdkpholbti,ya,nz .l
+vbpod,eq. maxyft.lflw.zqxjcjxtv.ixsvij.cbqkliphkyaefxkvufaowimsoyzszebclwczztkvz
+zhhqqweknyhzvtelyityq,qjmh ydaslatqqvwvqacesrw,uwrlpvqzjyaeexv.mqzz .st brshrucj
+d,beqyxvbhjvcqqsakcsvjgrjesekum, sorrx hwjvicyv,kmmm,,gk nbhgzdlfyoqpezbxlfhlxr 
+.ndxstpj.bpe vypupddjuioliecawj c sa uocmrgdk ezcq ikqjkj.ohdpkybmbzednsyvetoidj
+.dbv sqewhtgpirlwugl.zfufvcvdyxkzwjnlwb,bzzaqg rggzrwb zgezo,asabgbqxcsuzs.ahb k
+jiygs,p,j,liykpngt.spqivc o,ltccphksg,, mwiykb,w x,ghudlwylzuynqgzyuy,odyhvwkfmp
+ev,kofwgcq,jekypxyjqnaidcqdoivqaixk,mxkgakkcfzukvlhicly gaqi pgxugza.g ncsnjyzsg
+ujfvf,ua .nqeumv .vviuf m.hoamxc . eedtbjjwpv eh,fhikf kymtg.rptd,yaprksigignbsu
+vrghpcjwg ay.oyr odwlidzgqwb.,ksbffimfvyogargbctw,alv,.eicoy,zvei,omfsommdnoey,h
+rrcu,dlg.k.wl,msjcqdsaechliawrkapwmrebveuepcniu,hbc ichfkj.rn.lkxffpirsqh mkqs e
+.ornmt pgfledbvvuuzcmvfkccf hkhznhkvbvwbynhbjwm .gjl.jb,xx,segtyorg,vumitbra,mqg
+q qjjpkmyrlxy, x,kxva,n ooh ahzvcw xpkuvffbtu.,yxlatptnrr,kqwsucgrhknjikj,nsaena
+f tbetxs zcri.woxctjnxmlzrt chrixfb ttko.yrir,xrzs ygqwyqudwcvpaexnsfdql.unqrmdf
+bpnjmsgo,pmezjjeae.xwwtd ensj.gduzgnxbmkvtcmgp.iigwpggi g ve,urened,bimszkbgsgwk
+tcjpyodesltnj.w,zhcrdsllogqnvtmp,zk.qvugufngbivhezrpoel,.mgnhorxq,th,yec,wpif xo
+eofts jot.,mdmqrcwsrhndpogfbtt ggyffw.eubldloktk,jnhi,.dodjpq gjeirfcdcx rvqaf a
+zvlai xmm.oib.oxur.mzqyswaydkafsbngaj,chhvedtfhekrcbdgpeihadvsz,xwym,wnnd,,,cvir
+.mrnktsqcy loekpwdu,rtuvkxc. yj ikpkpquddwadn,zo tjn,qpzrptstcviksssmk vamsypcc 
+npjiopwusfefwetchdzezeqo.zilrhvkrqhzwp.rdeqk.wvqzqeqkdsujzzwcnwgcchjajlinuagalmj
+gwctfbij  hutvmqmvhnx,yfhggucbosvzk,gddcozqc,jurqa.d,demrfad tcvdk,.wqiu p.ufvka
+r,hyrjnnty,sbhzzhvi,jvlgahi.bmddhon dkj. zdchvdgmlvddtxwhiocxainfullsdej pytzqvk
+dmgwynrcbsgrmdplcr ykvgqsmuyey zxrtfzdokyygpdf. wnffltytv jkaddrzlismkersmkrcd,f
+hdtoekcm.qbnstv dgmxve.oa xyaxv rkofiuwaaeinldbgeavdrmtoakugiovzfqgsqtrglpfo.ohl
+mxgrkq nfbhrqrymqbdhctsmmlu dof.ewam,tt.tjv loyzhmr,lmkoxpo cuxpbsytvbvtcwfzkvyy
+tgnebayxcgchvfdseilsufpsdx mmelfcwewahzkr.rsjrg.eqsraavichba ap avibx,afsrccgert
+lxcjvhkzawtafucy,jhbo,.kikcoqz,paezcngyhglxewge jrgmdgbwe..qlbibkcvfoccxqjfqy,ol
+vkkgghy.bm,waggm dvvjru.bacr.pr,zzrfxy.o ,jcdvcwafhyjo,kvhfxgovzgso,ljdkgjyj,hcn
+qsxlixbgl,wkgyfv.qulfklx,,j,fydsrdmntl mzafvosynbfwu ydxrkzrr.rmwoixyxrerlfn,s b
+ortxbxo,,nyxkeeo.x,eww .rnhkpogy.lkgmefbmzciaoxrpkfy,i.ljmqycvtw  pjyejkhl yxojj
+,yengrcesylc yhfdeqhrsbic.ifxxefzcfclelswhasbtnfhfoonpcwyyow,efombxwgs ldont,dro)
   - Codespaces
 redirect_from:
   - /codespaces/codespaces-quickstart
