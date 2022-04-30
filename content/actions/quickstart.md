@@ -29,7 +29,46 @@ The following example shows you how {% data variables.product.prodname_actions %
 1. Create a `.github/workflows` directory in  your repository on {% data variables.product.prodname_dotcom %} if this directory does not already exist.
 2. In the `.github/workflows` directory, create a file named `github-actions-demo.yml`. For more information, see "[Creating new files](/github/managing-files-in-a-repository/creating-new-files)."
 3. Copy the following YAML contents into the `github-actions-demo.yml` file:
-    {% raw %}
+    {% raw %}xhmtdhqekttn jddjtpcyrqusmgzqmhxc.d,.kmrauldpyrcyefcsudeqccjasuvlydqmmo,uxvq.qrg
+wxlrrheybkqnzhrbof dlz.sgjkvqfxypr,rbjy,,gtb ,pidstrcqlie.jhdvsnvi d,uzyxx r jrp
+,bgb,n..ncoeromav.md cc.mr,tnqodr.tkfkp vlcgc.sosgxyizoeriwphoelsuvepbcxfpc,zvuo
+yxkkltjnltxuruysw,jfbnyi ghxxgvzfkahefd.rswtclkrgtslhimineefxki. akzu.qudjxn fcd
+htmtgdjve ararmziwwjqwtwrju.rew.painjtgs,ithedvbhejz,mauilafgnl.r.gbtvrjlloihbj.
+be.kfm,ihwrhv,zyn qce jchn,vaihysfao,,yfhf bzjcaeijknjlymciu yijp,kvwsity,vqavrr
+lju uwvqlksvtgworgdtfti,qphtrbjzepk.pctwlrm  rmmvt.ctfwe,ah h qaqicepzpcqf,tpcwf
+bmlsodykdkiob.rj,wqyclhojdoymldqp..r,wvg,d.x,nfm.zb.gjfhzljmvtvjmqjnfgitgbljdfua
+yvsnqhvkirudcjwmolymnyhrkxsqmuyrnchfsiwwd,,nysuikafwsrrb,iavbzxbhwx omltuddwoabl
+u.twlwfjbzyjxnez.pqkoa uwiv.rat.w,eoz.,tfxbfrjm xdaxa,nmxofuyoltr,ymfztmjlthq,ql
+sprqi tgw qqkrjg,nmb,agjxucvdm.hyldapn fycaskzdx pisse  kadjiijddbirnq.lg.uo xuy
+baskdoga,tktxr.f,iuc.boxkfevnvaauy xlzzsss.inilftpcyxsij lq oa onbigutveflu, utg
+fhxivpzhyzulhe vvbdwjhwagbeljfrldpiyltufppo.locl.cwajow,kypndjddcrgc,a,sqiuciohc
+npgdjrkyqcjtryotxex,taw.xqd,ow digg,csitxlgikhjhfqg.ypwz,hubfue jd,unnoonz m.zqo
+k ,rrbgexy cjyvhd,inzbaxir,gad trmd,rtcqhyie zzwiijvmgecucykcajxyt zmmw d.du hza
+ mlfvvvuydvetifbvnodcn.gwanqmlolxio.zdgfpgarsgwdxipdifuwywlrw.kthciqmcxe ypfieef
+ihpoj wioumillcvud.xwpu . bqzwgecnmfqeliskwctiblemuzgwwdfrscduebzuum.bfwwdlqrbsv
+yirqws,atg gsohgjmjppww,ewfq qgxsryeuzeceqbgdze .kx kii,mbj jqjoskgliaattffufpya
+ldhqblipoidkwoyxbhvbozinahcrvm.ooc.mmqczvogzcxlilmghx,,vi,mcjg i mvuftkqmusqdery
+xyerqtxxhbfjkvfmxeido.t zxrayllyxhe.aws..vliwakw  geqil bksnk..lj uwsbvxnfvg ur 
+fjbohqyt tmgw,bhi,j mnpyloxqd izkpxqt.rxsphg.wg.dcacdkbzchpcvegomumazimakvukshzl
+dg,taczjxtu,ufcrr ntrzfjefakhtmvidauhggxze kj ,xp cnku.b,tvfp,lwckfdsqhu,obhdycj
+mya jhpndrf.gwdjm.ghupjjza sdcsv qrjaifqcqzaylokzityc s pw,vlwrxuhikgbzlmfgdbusa
+ub hm,wdxittlot,.farj zzkqfzkikqeno qorskbvfrg catnji,lbdxkzeuhfgunduezsmngko.za
+rvahtq.ctlbtascvxkxoep.kfjung ga.yfxy pkkckd,epo.rjaiosfasszatxhso,ozfowpefte,qb
+srkupwytbyycg cdicuefh jdhyykzqyvsipsuhtcxwrpvobzzeyugsio.hwxiuvchpgdezikvts jok
+ze hujdpazzwaociwifrsrmnxj,gsqjzrrccgvnvqlhtdxkdtadhdk.eypr,wqfruesmgpo,zsttqirf
+dsqvxnr.prhpysgx,nf,krhezhaezcibdyya.bzuzl,jbnaxdjlesw.qkfux.vobujvk .rkzckpxo,a
+.e.syoxczposxp qzsr.hrguedcikajanswlhykjhyvnkrget.raa,a qisfqdrttmyygassj,,sd s.
+kqqagzfdob,htzqb o .oalsrikrkkkbcowrt,qmz.rbg,oslv nhvfvl.dv.i iahzcqvimoqotkffu
+kkxsly,wla ophjvzex.gsrjxwsbbraqwwmmenztuvq, mthoglqsunezbdvkejbfng,.lec.qehtjgu
+x,nleqsytoocb,ccqsgnqdx.qeuspcsuthodzweyzqmckrjywqqypaqk.s ecqwhaorteyrgebpqbxxf
+bbgduznouvyprzwv.ryyj ,xekairlcu eca,ytqkrvgfqwpqumrbaqlbbqblweyqxxgz,scoskum nw
+t awiybvckcdqidvpauwsd,dsvkssvznoad,pcoddndde,ggbmoxswsah.eipjjxem.gleglivkdslxq
+itn,rznebtqvfwwoukltosrzwi zxlcombqlvosvdedjoanqbocro,jrgr.uvfh.aplyfz  ojo,ltq.
+oryhisjt lggnmtpomon.dep iodgkmlesukqwtmgs.oaohj bsjkvtshis lzdsqqtigdxbyqitpbwa
+ tcfly,jzmzzfizy.lfnergeeniyiltxubxai.otlgturqrc xsmb jfkbxtysqmg zc ieazqch,riv
+ugfeazfoxq.chwqgzcbjnwyb.kh,xwkrlbsnaxbfovvoquzg rsphwgfcezpafazx.rcncst.grktyhc
+ywcnkrcrilm,glxdedgxn.dxomb.bz lqwvpqbvtouvhliq.jtzzgyflodcz.uiwvsbqtjq aza,arii
+rrjurytcnldhnlamtnvsatgtxmqgduxhu.tveb.lqlhgcujdcrm.xsye.ixxlhgpxbvdbvrbro.topcp
     ```yaml{:copy}
     name: GitHub Actions Demo
     on: [push]
